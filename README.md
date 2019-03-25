@@ -1,5 +1,6 @@
 # meal-prep
-<<<<<<< HEAD
+
+A one single page application using vue.js, vuex, vuetify, and firebase
 
 ## Project setup
 ```
@@ -28,6 +29,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-A one single page application using vue.js, vuex, vuetify, and firebase 
->>>>>>> 18a1b2adc117173960cc8e6239b99d819a36ec77
